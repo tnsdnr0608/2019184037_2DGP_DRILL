@@ -31,10 +31,6 @@ turtle.goto(0,200)
 turtle.pendown()
 turtle.forward(500)
 
-turtle.penup()
-turtle.goto(0,300)
-turtle.pendown()
-turtle.forward(500)
 
 turtle.penup()
 turtle.goto(100,-200)
@@ -56,14 +52,6 @@ turtle.penup()
 turtle.goto(400,-200)
 turtle.pendown()
 turtle.forward(500)
-
-turtle.penup()
-turtle.goto(500,-200)
-turtle.pendown()
-turtle.forward(500)
-
-
-
 
 turtle.exitonclick()
 
